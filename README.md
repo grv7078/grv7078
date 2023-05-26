@@ -1,4 +1,5 @@
-![logo](https://github.com/grv7078/grv7078/blob/main/image2026.png)
+
+[![MasterHead](http://watzaoweb.com/wp-content/uploads/2022/07/website-design-company-in-yamuna-nagar.jpg)](https://grv7078.herokuapp.com/)
 
 <h1 align="center">Hi 👋, I'm Gaurav yadav</h1>
 <h3 align="center">A passionate frontend developer</h3>
