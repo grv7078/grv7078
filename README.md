@@ -1,3 +1,5 @@
+![logo](https://github.com/grv7078/grv7078/blob/main/image2026.png)
+
 <h1 align="center">Hi 👋, I'm Gaurav yadav</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
