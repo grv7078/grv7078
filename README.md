@@ -7,7 +7,7 @@
 <br>
 <img align="right" alt="Coder GIF" height=350 width=400 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
-<img src="https://camo.githubusercontent.com/521959ac748ff251df0ea9a5287eaff693b6dd8c688b496f52cd45a4a7eb557f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61736875746f73682d706d6973687261266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="grv7078" data-canonical-src="https://komarev.com/ghpvc/?username=grv7078&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/521959ac748ff251df0ea9a5287eaff693b6dd8c688b496f52cd45a4a7eb557f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61736875746f73682d706d6973687261266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="grv7078" data-canonical-src="https://username=grv7078&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
 
 - 📫 How to reach me **gky1642@gmail.com**
 
