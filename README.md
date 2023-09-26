@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <br>
-<img align="right" alt="Coder GIF" height=350 width=400 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<img align="right" alt="https://camo.githubusercontent.com/823822df4639299e2725baf47d3601944c93d8c36c3f3d12b3153095573a9f70/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e676966" height=350 width=400 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 <img src="https://camo.githubusercontent.com/521959ac748ff251df0ea9a5287eaff693b6dd8c688b496f52cd45a4a7eb557f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61736875746f73682d706d6973687261266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="grv7078" data-canonical-src="https://username=grv7078&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
 
