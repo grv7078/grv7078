@@ -1,7 +1,11 @@
-
+- 👋 Hi,I'm Gaurav Yadav 
+-  😊I'm interested in Data Science.
+- 🌱 I’m currently learning machine learning,deep learning,data analysis.
+- 🤔 Looking for oppurtunities in Data Science field.
+- 📫 Email me on gky1642@gmail.com.
 [![MasterHead](http://watzaoweb.com/wp-content/uploads/2022/07/website-design-company-in-yamuna-nagar.jpg)](https://grv7078.herokuapp.com/)
 
-<h1 align="center">Hi 👋, I'm Gaurav yadav</h1>
+
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" height="300"  width=400 alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 <br>
